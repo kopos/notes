@@ -1,4 +1,4 @@
-### The Fine line between product and engineering [Link](https://the-stack-overflow-podcast.simplecast.com/episodes/the-fine-line-between-product-and-engineering/transcript)**
+### The Fine line between product and engineering [Link](https://the-stack-overflow-podcast.simplecast.com/episodes/the-fine-line-between-product-and-engineering/transcript)
 
 **"Whole product" approach**
 The concept of whole product is not just about building a feature or getting something out to market, but it's thinking about the whole product pieces of it, meaning how we're going to market it, how we're going to sell it, how we're going to price and package it, how's a customer going to adopt it, how are we going to renew?
